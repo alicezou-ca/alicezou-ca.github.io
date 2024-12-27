@@ -7,5 +7,5 @@ createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <h1>Coming Soon!</h1>
     <App />
-  </StrictMode>,
+  </StrictMode>
 )
