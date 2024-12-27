@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
+    "types": ["node"], // Ensure Node.js types are included
     "target": "ES2022",
     "lib": ["ES2023"],
     "module": "ESNext",
