@@ -12,7 +12,7 @@ import react from '@vitejs/plugin-react';
 import { IncomingMessage, ServerResponse } from 'http';
 
 export default defineConfig({
-  base: "/alicezou-ca.github.io",
+  base: "/alicezou-ca.github.io/",
   plugins: [
     react(),
     {
